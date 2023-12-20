@@ -28,10 +28,10 @@ The whole input image is used for segmentation.
 3. Adjust configurations in train.py (e.g., file paths, hyperparameters)
 4. Start training by running:
    ```bash
-   python train.py`
+   python train.py
 5. Evaluate the model's performance by running
    ```bash
-   python test.py`
+   python test.py
 
 
 ## Acknowledgments
