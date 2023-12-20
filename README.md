@@ -29,11 +29,13 @@ The whole input image is used for segmentation.
 4. Start training by running:
 ```bash
   python train.py
+
 5. Evaluate the model's performance by running
+
 ```bash
   python test.py
 
 
-# Acknowledgments
+## Acknowledgments
 The U-Net architecture was proposed by Olaf Ronneberger, Philipp Fischer, and Thomas Brox in the paper U-Net: Convolutional Networks for Biomedical Image Segmentation.
 The code it's been adapted from various open-source repositories and research papers, especially from Aladdin Persson [Repository]([https://github.com/username/example-repo](https://github.com/aladdinpersson/Machine-Learning-Collection)https://github.com/aladdinpersson/Machine-Learning-Collection)
