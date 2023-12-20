@@ -25,7 +25,7 @@ IMAGE_WIDTH = 240  # 1918 originally
 PIN_MEMORY = True
 LOAD_MODEL = False
 TRAIN_IMG_DIR = "BinarySegmentation/train_images/"
-TRAIN_MASK_DIR = "BinarySegmentation/train_masks3/"
+TRAIN_MASK_DIR = "BinarySegmentation/train_masks/"
 VAL_IMG_DIR = "BinarySegmentation/val_images/"
 VAL_MASK_DIR = "BinarySegmentation/val_masks/"
 
